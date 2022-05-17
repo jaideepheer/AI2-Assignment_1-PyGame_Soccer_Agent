@@ -1,5 +1,13 @@
 # AI2 - Assignment 1
 
+> See [Report.pdf](./Report.pdf) and [Video demonstration](https://youtu.be/vMqobxDOq78)
+> <div align="center">
+  <a href="https://www.youtube.com/watch?v=vMqobxDOq78">
+    <img src="https://img.youtube.com/vi/vMqobxDOq78/0.jpg" alt="Watch on YouTube">
+    <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/youtube-square.svg" width="50" height="50">
+  </a>
+</div>
+
 ## Question
 
 The task is to model an agent to perform assisted goal shootout in the game of soccer. This is a simple implementation of policies; no learning is expected by the agent.
